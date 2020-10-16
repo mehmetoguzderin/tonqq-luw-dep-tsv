@@ -173,7 +173,7 @@ index	head	dep
 171	0	root
 172	171	punct
 173	174	amod
-174	201	root
+174	201	nsubj
 175	201	punct
 176	178	amod
 177	178	amod
