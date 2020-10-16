@@ -100,10 +100,10 @@ index	head	dep
 98	96	punct
 99	100	nummod
 100	102	nsubj
-101	102	punct
-102	0	root
+101	96	punct
+102	96	conj
 103	102	cop
-104	102	punct
+104	96	punct
 105	106	compound
 106	108	nummod
 107	114	punct
